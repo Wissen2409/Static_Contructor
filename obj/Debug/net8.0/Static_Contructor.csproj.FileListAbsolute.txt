@@ -1,0 +1,14 @@
+/Users/emrahelis/Static_Contructor/bin/Debug/net8.0/Static_Contructor
+/Users/emrahelis/Static_Contructor/bin/Debug/net8.0/Static_Contructor.deps.json
+/Users/emrahelis/Static_Contructor/bin/Debug/net8.0/Static_Contructor.runtimeconfig.json
+/Users/emrahelis/Static_Contructor/bin/Debug/net8.0/Static_Contructor.dll
+/Users/emrahelis/Static_Contructor/bin/Debug/net8.0/Static_Contructor.pdb
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.AssemblyInfoInputs.cache
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.AssemblyInfo.cs
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.csproj.CoreCompileInputs.cache
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.dll
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/refint/Static_Contructor.dll
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.pdb
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/Static_Contructor.genruntimeconfig.cache
+/Users/emrahelis/Static_Contructor/obj/Debug/net8.0/ref/Static_Contructor.dll
