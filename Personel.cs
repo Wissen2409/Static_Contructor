@@ -1,6 +1,9 @@
 public static class Personel{
 
     // Static Ctor!!!!
+
+
+    // Static olan bir ctor asla overloading yapılamaz, yani kesinlikle parametre alamaz!!!
     static Personel(){
 
         // This keyword'u, static sınıflar için kullanılmaz!!!
@@ -14,7 +17,7 @@ public static class Personel{
 
         Random rnd = new Random();
         Random rnd1 = new Random();
-        
+
         Maas=100;
 
     }
